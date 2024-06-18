@@ -1,7 +1,7 @@
 # CUSTOMER SEGMENT ANALYSIS ON VEHICLE INSURANCE DATA TO ENHANCE CUSTOMER RETENTION
  
 ## Project Context
-How can we increase insurance coverage among low-income populations in Africa, where only 3% of the population has access to insurance products? The average insurance penetration in Africa was 2.8% of gross domestic product (GDP) in 2023,  which is much lower compared to the global average of approximately 7% of gross domestic product (GDP).espite the poor economic climate, technological advancements, and the presence of microfinance institutions, the insurance industry in Africa has the potential to grow. The key question is what strategies can be implemented to increase insurance uptake in Africa.
+How can we increase insurance coverage among low-income populations in Africa, where only 3% of the population has access to insurance products? The average insurance penetration in Africa was 2.8% of gross domestic product (GDP) in 2023,  which is much lower compared to the global average of approximately 7% of gross domestic product (GDP). Despite the poor economic climate, technological advancements, and the presence of microfinance institutions, the insurance industry in Africa has the potential to grow. The key question is what strategies can be implemented to increase insurance uptake in Africa.
  
 ## Problem Statement
 This project aims to identify the different customer profiles in vehicle insurance data to maximize customer retention. The benefit of this analysis will be to provide insights to the targeted vehicle insurance company that will assist them in devising appropriate marketing strategies to improve customer loyalty and acquire more clients.
